@@ -1,0 +1,52 @@
+name: Sync Fork with Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  sync-fork:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the fork
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false  # Disable automatic credential persistence
+
+    - name: Add upstream remote
+      run: |
+        git remote add upstream https://github.com/LotroCompanion/lotro-data.git
+        git fetch upstream
+
+    - name: Set Git User Identity
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Merge changes from upstream with conflict resolution
+      run: |
+        git checkout master  # Ensure you're on the master branch
+        git merge upstream/master --strategy-option theirs --allow-unrelated-histories || true
+        
+        # Handle unresolved conflicts
+        for file in $(git diff --name-only --diff-filter=U); do
+          echo "Resolving conflict for $file with upstream changes"
+          git checkout --theirs "$file"
+          git add "$file"
+        done
+        
+        git commit -m "Auto-resolved conflicts and merged upstream changes" || true
+
+    - name: Pull remote changes and push to fork
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+        
+        # Pull remote changes to ensure sync
+        git pull origin master --rebase || true
+
+        # Push changes after pulling updates
+        git push origin master
