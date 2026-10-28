@@ -937522,7 +937522,7 @@
 <stat name="ARMOUR" scaling="1879051206"/>
 </stats>
 </item>
-<item key="1879535416" name="Ancestral Bramble-runner's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SS?" scaling="Item_Level#160-" armourType="LIGHT">
+<item key="1879535416" name="Ancestral Bramble-runner's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SSI" scaling="Item_Level#160-" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="WILL" scaling="1879211580"/>
@@ -937725,7 +937725,7 @@
 <stat name="ARMOUR" scaling="1879055748"/>
 </stats>
 </item>
-<item key="1879535451" name="Ancestral Ravine-stalker's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SS?" scaling="Item_Level#160-" armourType="MEDIUM">
+<item key="1879535451" name="Ancestral Ravine-stalker's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SSI" scaling="Item_Level#160-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="AGILITY" scaling="1879212162"/>
@@ -937779,7 +937779,7 @@
 <stat name="ARMOUR" scaling="1879055776"/>
 </stats>
 </item>
-<item key="1879535459" name="Ancestral Canyon-caller's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SS?" scaling="Item_Level#160-" armourType="MEDIUM">
+<item key="1879535459" name="Ancestral Canyon-caller's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SSI" scaling="Item_Level#160-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="AGILITY" scaling="1879212162"/>
@@ -937868,7 +937868,7 @@
 <stat name="ARMOUR" scaling="1879055740"/>
 </stats>
 </item>
-<item key="1879535470" name="Ancestral Cliff-strider's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SS?" scaling="Item_Level#160-" armourType="HEAVY">
+<item key="1879535470" name="Ancestral Cliff-strider's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SSI" scaling="Item_Level#160-" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="MIGHT" scaling="1879212153"/>
@@ -937973,7 +937973,7 @@
 <stat name="ARMOUR" scaling="1879055752"/>
 </stats>
 </item>
-<item key="1879535489" name="Ancestral Mountaineer's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SS?" scaling="Item_Level#160-" armourType="HEAVY">
+<item key="1879535489" name="Ancestral Mountaineer's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SSI" scaling="Item_Level#160-" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="MIGHT" scaling="1879211567"/>
@@ -938079,7 +938079,7 @@
 <stat name="ARMOUR" scaling="1879052989"/>
 </stats>
 </item>
-<item key="1879535503" name="Ancestral Grove-singer's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SS?" scaling="Item_Level#160-" armourType="LIGHT">
+<item key="1879535503" name="Ancestral Grove-singer's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SSI" scaling="Item_Level#160-" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="WILL" scaling="1879212168"/>
@@ -938167,7 +938167,7 @@
 <stat name="ARMOUR" scaling="1879051211"/>
 </stats>
 </item>
-<item key="1879535518" name="Ancestral Valley-strider's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SS?" scaling="Item_Level#160-" armourType="MEDIUM">
+<item key="1879535518" name="Ancestral Valley-strider's Scaled Helm" icon="1093184077-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050493" slots="SSI" scaling="Item_Level#160-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="AGILITY" scaling="1879212162"/>
@@ -938194,7 +938194,7 @@
 <stat name="ARMOUR" scaling="1879055446"/>
 </stats>
 </item>
-<item key="1879535524" name="Ancestral Stone-speaker's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SS?" scaling="Item_Level#160-" armourType="HEAVY">
+<item key="1879535524" name="Ancestral Stone-speaker's Plated Helm" icon="1093184083-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050486" slots="SSI" scaling="Item_Level#160-" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="MIGHT" scaling="1879212153"/>
@@ -938362,7 +938362,7 @@
 <stat name="ARMOUR" scaling="1879051223"/>
 </stats>
 </item>
-<item key="1879535549" name="Ancestral Forest-kin's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SS?" scaling="Item_Level#160-" armourType="LIGHT">
+<item key="1879535549" name="Ancestral Forest-kin's Hood" icon="1093184070-1090519044-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050068" slots="SSI" scaling="Item_Level#160-" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="WILL" scaling="1879211580"/>
@@ -940675,7 +940675,7 @@
 <item key="1879536395" name="Medium Neighbour Gift Carry-all" icon="1092529006-1091591349-1091947416" level="1" category="CARRY_ALL" class="279" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" description="key:621131723:54354734" valueTableId="1879049581" maxItems="25" itemStackMax="40">
 <stats/>
 </item>
-<item key="1879536485" name="Essence of Physical Prowess" pluralName="key:621131808:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536485" name="Essence of Physical Prowess" pluralName="key:621131808:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Physical_Prowess_ProcChance_Bonus" descriptionOverride="key:621131808:106251889" constant="3.0"/>
 </stats>
@@ -940850,122 +940850,122 @@
 <item key="1879536708" name="Area for Wolf Pup Water" icon="1090519728-1090519721" level="1" category="ITEM" class="27" quality="COMMON" description="key:621131983:54354734" valueTableId="1879049280">
 <stats/>
 </item>
-<item key="1879536711" name="Essence of Infected Strikes" pluralName="key:621132020:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536711" name="Essence of Infected Strikes" pluralName="key:621132020:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Khemozel_Infected_Strikes_ProcChance_Bonus" descriptionOverride="key:621132020:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536712" name="Essence of Twisting the Blade" pluralName="key:621132015:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536712" name="Essence of Twisting the Blade" pluralName="key:621132015:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Khemozel_Twisting_The_Blade_ProcChance_Bonus" descriptionOverride="key:621132015:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536713" name="Essence of Scout's Sunder" pluralName="key:621131987:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536713" name="Essence of Scout's Sunder" pluralName="key:621131987:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Scout_Sunder_ProcChance_Bonus" descriptionOverride="key:621131987:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536714" name="Essence of Bolstered by Combat" pluralName="key:621131998:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536714" name="Essence of Bolstered by Combat" pluralName="key:621131998:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Bolstered_By_Combat_ProcChance_Bonus" descriptionOverride="key:621131998:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536715" name="Essence of Bait the Enemy" pluralName="key:621132016:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536715" name="Essence of Bait the Enemy" pluralName="key:621132016:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Bait_The_Enemy_ProcChance" descriptionOverride="key:621132016:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536716" name="Essence of Tactical Exposure" pluralName="key:621131989:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536716" name="Essence of Tactical Exposure" pluralName="key:621131989:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Tetikir_Tactical_Exposure_ProcChance_Bonus" descriptionOverride="key:621131989:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536717" name="Essence of Weaken Foe" pluralName="key:621131990:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536717" name="Essence of Weaken Foe" pluralName="key:621131990:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Khemozel_Weaken_Foe_ProcChance_Bonus" descriptionOverride="key:621131990:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536721" name="Essence of Avert the Shadow" pluralName="key:621132009:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536721" name="Essence of Avert the Shadow" pluralName="key:621132009:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Avert_The_Shadow_ProcChance_Bonus" descriptionOverride="key:621132009:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536723" name="Essence of Hardened Resolve" pluralName="key:621132022:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536723" name="Essence of Hardened Resolve" pluralName="key:621132022:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Hardened_Resolve_ProcChance_Bonus" descriptionOverride="key:621132022:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536726" name="Essence of the Têtikir Skills" pluralName="key:621132008:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536726" name="Essence of the Têtikir Skills" pluralName="key:621132008:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Skill_SI_U50_TetikirSkills_CooldownMod" descriptionOverride="key:621132008:106251889" constant="-5.0"/>
 </stats>
 </item>
-<item key="1879536727" name="Essence of Enhanced Scout Tactics" pluralName="key:621131996:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536727" name="Essence of Enhanced Scout Tactics" pluralName="key:621131996:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Scout_Tactics_ProcChance" descriptionOverride="key:621131996:106251889" constant="1.5"/>
 </stats>
 </item>
-<item key="1879536728" name="Essence of Hopeful Healing" pluralName="key:621132010:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536728" name="Essence of Hopeful Healing" pluralName="key:621132010:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Hopeful_Healing_ProcChance_Bonus" descriptionOverride="key:621132010:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536730" name="Essence of Reprisal" pluralName="key:621132000:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536730" name="Essence of Reprisal" pluralName="key:621132000:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Tetikir_Reprisal_ProcChance_Bonus" descriptionOverride="key:621132000:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536732" name="Essence of Tactical Prowess" pluralName="key:621132019:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536732" name="Essence of Tactical Prowess" pluralName="key:621132019:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Tactical_Prowess_ProcChance_Bonus" descriptionOverride="key:621132019:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536733" name="Essence of Enhanced Khemozêl Tactics" pluralName="key:621131994:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536733" name="Essence of Enhanced Khemozêl Tactics" pluralName="key:621131994:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Khemozel_Tactics_ProcChance" descriptionOverride="key:621131994:106251889" constant="1.5"/>
 </stats>
 </item>
-<item key="1879536736" name="Essence of Hidden Treasure" pluralName="key:621131992:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536736" name="Essence of Hidden Treasure" pluralName="key:621131992:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Hidden_Treasure_ProcChance" descriptionOverride="key:621131992:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536737" name="Essence of Scout's Defence" pluralName="key:621131993:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536737" name="Essence of Scout's Defence" pluralName="key:621131993:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Scout_Defence_ProcChance_Bonus" descriptionOverride="key:621131993:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536739" name="Essence of Enhanced Têtikir Tactics" pluralName="key:621132003:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536739" name="Essence of Enhanced Têtikir Tactics" pluralName="key:621132003:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Tetikir_Tactics_ProcChance" descriptionOverride="key:621132003:106251889" constant="1.5"/>
 </stats>
 </item>
-<item key="1879536742" name="Essence of Wolf-hounds" pluralName="key:621132012:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536742" name="Essence of Wolf-hounds" pluralName="key:621132012:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Enhanced_Wolfhounds_ProcChance" descriptionOverride="key:621132012:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536743" name="Essence of the Scout Skills" pluralName="key:621132013:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536743" name="Essence of the Scout Skills" pluralName="key:621132013:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Skill_SI_U50_ScoutSkills_CooldownMod" descriptionOverride="key:621132013:106251889" constant="-5.0"/>
 </stats>
 </item>
-<item key="1879536744" name="Essence of Scout's Dagger" pluralName="key:621131985:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536744" name="Essence of Scout's Dagger" pluralName="key:621131985:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Scout_Dagger_ProcChance_Bonus" descriptionOverride="key:621131985:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536745" name="Essence of The Tempest" pluralName="key:621131986:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536745" name="Essence of The Tempest" pluralName="key:621131986:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Tetikir_The_Tempest_ProcChance_Bonus" descriptionOverride="key:621131986:106251889" constant="3.0"/>
 </stats>
 </item>
-<item key="1879536746" name="Essence of the Khemozêl Skills" pluralName="key:621131999:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536746" name="Essence of the Khemozêl Skills" pluralName="key:621131999:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Skill_SI_U50_KhemozelSkills_CooldownMod" descriptionOverride="key:621131999:106251889" constant="-5.0"/>
 </stats>
 </item>
-<item key="1879536747" name="Essence of Undeterred" pluralName="key:621132011:98907573" icon="1092979553-1090519042" level="150" category="ITEM" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50">
+<item key="1879536747" name="Essence of Undeterred" pluralName="key:621132011:98907573" icon="1092979553-1090519042" level="150" category="ESSENCE" class="235" tier="15" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="UNCOMMON" minLevel="150" valueTableId="1879055002" stackMax="50" type="25">
 <stats>
 <stat name="Trait_SI_U50_Undeterred_ProcChance_Bonus" descriptionOverride="key:621132011:106251889" constant="3.0"/>
 </stats>
@@ -942161,7 +942161,7 @@
 <stat name="ARMOUR" scaling="1879112811"/>
 </stats>
 </item>
-<item key="1879538247" name="Survivalist's Hood" icon="1093184070-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="35" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050068" slots="?" armourType="LIGHT">
+<item key="1879538247" name="Survivalist's Hood" icon="1093184070-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="35" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050068" slots="I" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879347269"/>
 <stat name="WILL" scaling="1879211978"/>
@@ -942228,7 +942228,7 @@
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
 </item>
-<item key="1879538256" name="Survivalist's Plated Helm" icon="1093184083-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="90" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050486" slots="?" armourType="HEAVY">
+<item key="1879538256" name="Survivalist's Plated Helm" icon="1093184083-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="90" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050486" slots="I" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879347269"/>
 <stat name="MIGHT" scaling="1879211971"/>
@@ -942270,7 +942270,7 @@
 <stat name="ARMOUR" scaling="1879054055"/>
 </stats>
 </item>
-<item key="1879538263" name="Survivalist's Scaled Helm" icon="1093184077-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050493" slots="?" armourType="MEDIUM">
+<item key="1879538263" name="Survivalist's Scaled Helm" icon="1093184077-1090519043-1091947416" level="570" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="155" valueTableId="1879050493" slots="I" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879347269"/>
 <stat name="AGILITY" scaling="1879211976"/>
