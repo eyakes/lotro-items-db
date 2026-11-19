@@ -609145,7 +609145,7 @@
 </item>
 <item key="1879339206" name="Sleeping Ginger Cat" icon="1092695050-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
-<housingHooks categories="5,10,23"/>
+<housingHooks categories="5,8,10,23"/>
 </item>
 <item key="1879339207" name="Sleeping Brown Cat" icon="1092695047-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
@@ -609154,7 +609154,7 @@
 <item key="1879339208" name="Cat Milk Saucer" icon="1092695044-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
 <cooldown duration="15.0"/>
-<housingHooks categories="5,10,23"/>
+<housingHooks categories="5,8,10,23"/>
 <effect type="ON_USE" id="1879339215" name="Create Cat"/>
 </item>
 <item key="1879339209" name="Cuthstan Statue" icon="1093152189-1091424047-1091947416" level="2" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
@@ -609163,15 +609163,15 @@
 </item>
 <item key="1879339210" name="Grey Cat on a Cushion" icon="1092695049-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
-<housingHooks categories="5,10,23"/>
+<housingHooks categories="5,8,10,23"/>
 </item>
 <item key="1879339212" name="Sleeping Whiteshirt Cat" icon="1092695043-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
-<housingHooks categories="5,10,23"/>
+<housingHooks categories="5,8,10,23"/>
 </item>
 <item key="1879339213" name="Brown Cat on a Cushion" icon="1092695051-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
-<housingHooks categories="5,10,23"/>
+<housingHooks categories="5,8,10,23"/>
 </item>
 <item key="1879339214" name="Whiteshirt Cat on a Cushion" icon="1092695046-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101673">
 <stats/>
@@ -926883,6 +926883,11 @@
 <grants type="SKILL" id="1879521261"/>
 <effect type="ON_USE" id="1879090911" name="GrantSkillEffect"/>
 </item>
+<item key="1879521384" name="Tome of the Marsh Crocodile Hatchling" icon="1090531744-1090519041-1090531745" level="5" category="ITEM" class="186" quality="COMMON" description="key:621119486:54354734" valueTableId="1879101648">
+<stats/>
+<grants type="SKILL" id="1879521398"/>
+<effect type="ON_USE" id="1879090911" name="GrantSkillEffect"/>
+</item>
 <item key="1879521402" name="Tome of the Mottled Vulture" icon="1090531744-1090519041-1090531745" level="5" category="ITEM" class="186" quality="COMMON" description="key:621119555:54354734" valueTableId="1879101648">
 <stats/>
 <grants type="SKILL" id="1879521357"/>
@@ -927113,7 +927118,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879521756" name="Victory Over Zamâktar Statue" icon="1093066806-1091424047-1091947416" level="50" category="ITEM" class="291" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879521756" name="Victory over Zamâktar Statue" icon="1093066806-1091424047-1091947416" level="50" category="ITEM" class="291" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
@@ -928630,11 +928635,11 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523897" name="Call Property Guard"/>
 </item>
-<item key="1879523754" name="Hanging Banner of Anfalas" icon="1093080939-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523754" name="Hanging Banner of Anfalas" icon="1093080939-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523756" name="Hanging Banner of Anórien" icon="1093080953-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523756" name="Hanging Banner of Anórien" icon="1093080953-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928663,15 +928668,15 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523770" name="Hanging Banner of Ithilien" icon="1093080956-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523770" name="Hanging Banner of Ithilien" icon="1093080956-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523771" name="Hanging Floodwend Banner" icon="1093080872-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523771" name="Hanging Floodwend Banner" icon="1093080872-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523772" name="Hanging Banner of Ringló Vale" icon="1093080866-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523772" name="Hanging Banner of Ringló Vale" icon="1093080866-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928679,11 +928684,11 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523777" name="Hanging Stonedeans Banner" icon="1093080952-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523777" name="Hanging Stonedeans Banner" icon="1093080952-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523778" name="Hanging Thornhope Banner" icon="1093080917-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523778" name="Hanging Thornhope Banner" icon="1093080917-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928692,7 +928697,7 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523919" name="Call Property Guard"/>
 </item>
-<item key="1879523785" name="Hanging Snowbourn Banner" icon="1093080890-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523785" name="Hanging Snowbourn Banner" icon="1093080890-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928704,7 +928709,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523793" name="Hanging Langhold Banner" icon="1093080931-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523793" name="Hanging Langhold Banner" icon="1093080931-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928712,7 +928717,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523795" name="Hanging Banner of Lossarnach" icon="1093080919-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523795" name="Hanging Banner of Lossarnach" icon="1093080919-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928725,7 +928730,7 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523925" name="Call Property Guard"/>
 </item>
-<item key="1879523806" name="Hanging Banner of Lamedon" icon="1093080892-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523806" name="Hanging Banner of Lamedon" icon="1093080892-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928733,7 +928738,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523810" name="Hanging Banner of Belfalas" icon="1093080865-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523810" name="Hanging Banner of Belfalas" icon="1093080865-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928758,7 +928763,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523824" name="Hanging High Moor Banner" icon="1093080886-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523824" name="Hanging High Moor Banner" icon="1093080886-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928772,11 +928777,11 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523863" name="Call Property Guard"/>
 </item>
-<item key="1879523830" name="Hanging Banner of the King" icon="1093080948-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523830" name="Hanging Banner of the King" icon="1093080948-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523832" name="Hanging Garsfeld Banner" icon="1093080940-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523832" name="Hanging Garsfeld Banner" icon="1093080940-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928784,7 +928789,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523838" name="Hanging Eaworth Banner" icon="1093080945-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523838" name="Hanging Eaworth Banner" icon="1093080945-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928800,7 +928805,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523846" name="Hanging Banner of King Elessar" icon="1093080880-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523846" name="Hanging Banner of King Elessar" icon="1093080880-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928828,7 +928833,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523859" name="Hanging Eastfold Banner" icon="1093080947-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523859" name="Hanging Eastfold Banner" icon="1093080947-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928848,7 +928853,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523868" name="Hanging Edoras Banner" icon="1093080936-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523868" name="Hanging Edoras Banner" icon="1093080936-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928869,7 +928874,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523874" name="Hanging Walstow Banner" icon="1093080871-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523874" name="Hanging Walstow Banner" icon="1093080871-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928877,7 +928882,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523877" name="Hanging Banner of Pelargir" icon="1093080894-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523877" name="Hanging Banner of Pelargir" icon="1093080894-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928885,11 +928890,11 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523883" name="Hanging Banner of Pinnath Gelin" icon="1093080911-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523883" name="Hanging Banner of Pinnath Gelin" icon="1093080911-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523884" name="Hanging Cliving Banner" icon="1093080954-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523884" name="Hanging Cliving Banner" icon="1093080954-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928898,11 +928903,11 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523878" name="Call Property Guard"/>
 </item>
-<item key="1879523886" name="Hanging Banner of Osgiliath" icon="1093080941-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523886" name="Hanging Banner of Osgiliath" icon="1093080941-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523889" name="Hanging Banner of Lebennin" icon="1093080932-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523889" name="Hanging Banner of Lebennin" icon="1093080932-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928922,11 +928927,11 @@
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523904" name="Hanging Harwick Banner" icon="1093080910-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523904" name="Hanging Harwick Banner" icon="1093080910-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
-<item key="1879523907" name="Hanging Westfold Banner" icon="1093080902-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523907" name="Hanging Westfold Banner" icon="1093080902-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928939,7 +928944,7 @@
 <housingHooks categories="5,10,23"/>
 <effect type="ON_USE" id="1879523881" name="Call Property Guard"/>
 </item>
-<item key="1879523913" name="Hanging Banner of Dol Amroth" icon="1093080914-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523913" name="Hanging Banner of Dol Amroth" icon="1093080914-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928955,7 +928960,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523927" name="Hanging Banner of Blackroot" icon="1093080879-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523927" name="Hanging Banner of Blackroot" icon="1093080879-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -928979,7 +928984,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879523944" name="Hanging Broadacres Banner" icon="1093080958-1091424047-1091947416" level="10" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879523944" name="Hanging Broadacres Banner" icon="1093080958-1091424047-1091947416" level="10" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23,29"/>
 </item>
@@ -936259,7 +936264,7 @@
 <item key="1879532217" name="White Hand Banner" icon="1090519728-1090519721" level="1" category="ITEM" class="27" quality="COMMON" description="key:621128773:54354734" valueTableId="1879049280">
 <stats/>
 </item>
-<item key="1879532230" name="Têtikir Medium Shield" icon="1093183865-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="40" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="90" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879050591" scaling="160-160" armourType="WARDEN_SHIELD">
+<item key="1879532230" name="Têtikir Medium Shield" icon="1093183865-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="40" binding="BIND_ON_EQUIP" durability="90" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879050591" scaling="160-160" armourType="WARDEN_SHIELD">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="BLOCK" scaling="1879215770"/>
@@ -936268,7 +936273,7 @@
 <stat name="ARMOUR" scaling="1879112811"/>
 </stats>
 </item>
-<item key="1879532234" name="Têtikir Healer's Buckler" icon="1093183863-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
+<item key="1879532234" name="Têtikir Healer's Buckler" icon="1093183863-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="BLOCK" scaling="1879215770"/>
@@ -936277,7 +936282,7 @@
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
 </item>
-<item key="1879532240" name="Têtikir Heavy Shield" icon="1093183864-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="100" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879050497" scaling="160-160" armourType="HEAVY_SHIELD">
+<item key="1879532240" name="Têtikir Heavy Shield" icon="1093183864-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879050497" scaling="160-160" armourType="HEAVY_SHIELD">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="BLOCK" scaling="1879215770"/>
@@ -936286,7 +936291,7 @@
 <stat name="ARMOUR" scaling="1879049940"/>
 </stats>
 </item>
-<item key="1879532295" name="Têtikir Buckler" icon="1093183863-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
+<item key="1879532295" name="Têtikir Buckler" icon="1093183863-1090519043-1091947416" level="570" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="TOUGH" quality="RARE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="BLOCK" scaling="1879215770"/>
@@ -936919,10 +936924,10 @@
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
-<item key="1879534424" name="Vibrant Khemozêl Banquet" pluralName="key:621130304:98907573" icon="1092926669-1090522692-1091947416" level="568" category="ITEM" class="55" quality="INCOMPARABLE" minLevel="160" description="key:621130304:54354734" valueTableId="1879049656" stackMax="100">
+<item key="1879534424" name="Vibrant Khemozêl Banquet" pluralName="key:621130304:98907573" icon="1092926669-1090522692-1091947416" level="570" category="ITEM" class="55" quality="INCOMPARABLE" minLevel="160" description="key:621130304:54354734" valueTableId="1879049656" stackMax="100">
 <stats/>
 <cooldown duration="30.0" channelID="180"/>
-<effect type="ON_USE" id="1879521806" name="DNT -- Feast Creation"/>
+<effect type="ON_USE" id="1879538793" name="DNT -- Feast Creation"/>
 </item>
 <item key="1879534537" name="Expeditionary Athelas Essence Recipe" pluralName="key:621130351:98907573" icon="1091804732-1090522692-1091947416" level="160" category="ITEM" class="302" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="INCOMPARABLE" requiredProfession="1879054946;16" description="key:621130351:54354734" valueTableId="1879146916">
 <stats/>
@@ -937153,8 +937158,8 @@
 <stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" constant="30.000002"/>
 <stat name="Skill_Minstrel_CriticalChance_Ballad" constant="3.5"/>
 <stat name="Skill_Minstrel_CriticalChance_Coda" constant="3.5"/>
-<stat name="TACTICAL_MASTERY" scaling="1879223967"/>
-<stat name="POWER" scaling="1879211582"/>
+<stat name="TACTICAL_MASTERY" scaling="1879223968"/>
+<stat name="POWER" scaling="1879211587"/>
 </stats>
 </item>
 <item key="1879535276" name="Têtikir Sword of the Falls" icon="1093184111-1090519043" level="570" slot="EITHER_HAND" category="WEAPON" class="44" equipmentCategory="28" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="RARE" minLevel="160" valueTableId="1879338011" dps="758.50385" dpsTableId="1879049778" minDamage="650" maxDamage="867" damageType="BELERIAND" weaponType="ONE_HANDED_SWORD">
@@ -937242,8 +937247,8 @@
 <stats>
 <stat name="Trait_Minstrel_Healing_CriticalMod" constant="24.0"/>
 <stat name="Skill_HealingMultiplier_Item" constant="3.5"/>
-<stat name="TACTICAL_MASTERY" scaling="1879223967"/>
-<stat name="POWER" scaling="1879211582"/>
+<stat name="TACTICAL_MASTERY" scaling="1879223968"/>
+<stat name="POWER" scaling="1879211587"/>
 </stats>
 </item>
 <item key="1879535301" name="Têtikir Axe of the Mountains" icon="1093184117-1090519043" level="570" slot="EITHER_HAND" category="WEAPON" class="12" equipmentCategory="24" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="RARE" minLevel="160" valueTableId="1879338011" dps="758.50385" dpsTableId="1879049778" minDamage="650" maxDamage="867" damageType="BELERIAND" weaponType="ONE_HANDED_AXE">
@@ -937363,8 +937368,8 @@
 <stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" constant="30.000002"/>
 <stat name="Skill_Minstrel_CriticalChance_Ballad" constant="3.5"/>
 <stat name="Skill_Minstrel_CriticalChance_Coda" constant="3.5"/>
-<stat name="FINESSE" scaling="1879211720"/>
-<stat name="POWER" scaling="1879211582"/>
+<stat name="FINESSE" scaling="1879211719"/>
+<stat name="POWER" scaling="1879211587"/>
 </stats>
 </item>
 <item key="1879535336" name="Khemozêl Brutal Club of the Mountains" icon="1093184118-1090519044" level="570" slot="EITHER_HAND" category="WEAPON" class="40" equipmentCategory="26" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879338011" dps="787.6771" dpsTableId="1879049778" minDamage="675" maxDamage="900" damageType="BELERIAND" weaponType="ONE_HANDED_CLUB">
@@ -937402,16 +937407,16 @@
 <stats>
 <stat name="Corsair_Skilldamage_Finisher" constant="10.0"/>
 <stat name="Skill_SingleTarget_Damage" constant="5.0"/>
-<stat name="PHYSICAL_MASTERY" scaling="1879223970"/>
-<stat name="CRITICAL_RATING" scaling="1879211603"/>
+<stat name="PHYSICAL_MASTERY" scaling="1879223971"/>
+<stat name="CRITICAL_RATING" scaling="1879211600"/>
 </stats>
 </item>
 <item key="1879535345" name="Khemozêl Horn of Torrential Floods" icon="1090557424-1090531554-1090557425-1090623691" level="574" slot="RANGED_ITEM" category="ITEM" class="293" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredClass="Corsair" requiredTrait="1879064096" description="key:621130666:54354734" valueTableId="1879049654" slots="PVS" scaling="Item_Level#160-">
 <stats>
 <stat name="Corsair_Swordplay_Defensive_Duration" constant="2.0"/>
 <stat name="Corsair_Thrown_Target_ResistMod" constant="-10.0"/>
-<stat name="FINESSE" scaling="1879211720"/>
-<stat name="POWER" scaling="1879211582"/>
+<stat name="FINESSE" scaling="1879211719"/>
+<stat name="POWER" scaling="1879211587"/>
 </stats>
 </item>
 <item key="1879535346" name="Khemozêl Huntsman's Bow of the Mountains" icon="1093184119-1090519044" level="570" slot="RANGED_ITEM" category="WEAPON" class="1" equipmentCategory="8" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" valueTableId="1879338011" dps="1102.748" dpsTableId="1879049506" minDamage="945" maxDamage="1260" damageType="BELERIAND" weaponType="BOW">
@@ -937617,12 +937622,12 @@
 <stat name="ARMOUR" scaling="1879055764"/>
 </stats>
 </item>
-<item key="1879535422" name="Ancenstral Buckler" icon="1093183863-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
+<item key="1879535422" name="Ancenstral Buckler" icon="1093183863-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
 <stats>
-<stat name="VITALITY" scaling="1879211544"/>
-<stat name="BLOCK" scaling="1879215770"/>
-<stat name="MIGHT" scaling="1879211573"/>
-<stat name="CRITICAL_RATING" scaling="1879211601"/>
+<stat name="VITALITY" scaling="1879347269"/>
+<stat name="BLOCK" scaling="1879215769"/>
+<stat name="MIGHT" scaling="1879314142"/>
+<stat name="CRITICAL_RATING" scaling="1879211604"/>
 <stat name="ARMOUR" scaling="1879055470"/>
 </stats>
 </item>
@@ -937644,12 +937649,12 @@
 <stat name="ARMOUR" scaling="1879055776"/>
 </stats>
 </item>
-<item key="1879535425" name="Ancenstral Medium Shield" icon="1093183865-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="40" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050591" scaling="160-160" armourType="WARDEN_SHIELD">
+<item key="1879535425" name="Ancenstral Medium Shield" icon="1093183865-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="40" binding="BIND_ON_EQUIP" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050591" scaling="160-160" armourType="WARDEN_SHIELD">
 <stats>
-<stat name="VITALITY" scaling="1879211544"/>
-<stat name="BLOCK" scaling="1879215770"/>
-<stat name="AGILITY" scaling="1879211546"/>
-<stat name="PHYSICAL_MASTERY" scaling="1879223963"/>
+<stat name="VITALITY" scaling="1879347269"/>
+<stat name="BLOCK" scaling="1879215769"/>
+<stat name="AGILITY" scaling="1879314139"/>
+<stat name="PHYSICAL_MASTERY" scaling="1879223971"/>
 <stat name="ARMOUR" scaling="1879113253"/>
 </stats>
 </item>
@@ -937715,12 +937720,12 @@
 <stat name="ARMOUR" scaling="1879051206"/>
 </stats>
 </item>
-<item key="1879535440" name="Ancenstral Heavy Shield" icon="1093183864-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="100" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050497" scaling="160-160" armourType="HEAVY_SHIELD">
+<item key="1879535440" name="Ancenstral Heavy Shield" icon="1093183864-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879050497" scaling="160-160" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="VITALITY" scaling="1879211544"/>
-<stat name="BLOCK" scaling="1879215770"/>
-<stat name="MIGHT" scaling="1879211573"/>
-<stat name="PHYSICAL_MASTERY" scaling="1879223963"/>
+<stat name="VITALITY" scaling="1879347269"/>
+<stat name="BLOCK" scaling="1879215769"/>
+<stat name="MIGHT" scaling="1879314142"/>
+<stat name="PHYSICAL_MASTERY" scaling="1879223971"/>
 <stat name="ARMOUR" scaling="1879055475"/>
 </stats>
 </item>
@@ -937885,12 +937890,12 @@
 <stat name="ARMOUR" scaling="1879055772"/>
 </stats>
 </item>
-<item key="1879535465" name="Ancenstral Healer's Buckler" icon="1093183863-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
+<item key="1879535465" name="Ancenstral Healer's Buckler" icon="1093183863-1090519044-1091947416" level="574" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="160" valueTableId="1879049983" scaling="160-160" armourType="SHIELD">
 <stats>
-<stat name="VITALITY" scaling="1879211544"/>
-<stat name="BLOCK" scaling="1879215770"/>
-<stat name="WILL" scaling="1879211585"/>
-<stat name="TACTICAL_MASTERY" scaling="1879223958"/>
+<stat name="VITALITY" scaling="1879347269"/>
+<stat name="BLOCK" scaling="1879215769"/>
+<stat name="WILL" scaling="1879314143"/>
+<stat name="TACTICAL_MASTERY" scaling="1879223968"/>
 <stat name="ARMOUR" scaling="1879055470"/>
 </stats>
 </item>
@@ -938834,19 +938839,19 @@
 <stats/>
 <housingHooks categories="33"/>
 </item>
-<item key="1879535684" name="Rough Hewn Têtikir Gate" icon="1093174680-1091424047-1091947416" level="1" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
+<item key="1879535684" name="Rough Hewn Khashkhilar Gate" icon="1093174680-1091424047-1091947416" level="1" category="ITEM" class="87" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
-<item key="1879535685" name="Têtikir Gate" icon="1093174681-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535685" name="Khashkhilar Gate" icon="1093174681-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
-<item key="1879535686" name="Simple Têtikir Gate" icon="1093174682-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535686" name="Simple Khashkhilar Gate" icon="1093174682-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
-<item key="1879535687" name="Wide Têtikir Gate" icon="1093174683-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535687" name="Wide Khashkhilar Gate" icon="1093174683-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
@@ -938862,7 +938867,7 @@
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
-<item key="1879535691" name="Têtikir Look-out" icon="1093174687-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535691" name="Wolf-worshipper's Look-out" icon="1093174687-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
 </item>
@@ -938922,11 +938927,11 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879535706" name="Têtikir Lean-to" icon="1093174702-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535706" name="Khashkhilar Lean-to" icon="1093174702-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879535707" name="Têtikir Tent" icon="1093174703-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535707" name="Wolf-worshipper's Tent" icon="1093174703-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
@@ -938942,11 +938947,11 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879535711" name="Têtikir Lodge" icon="1093174707-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535711" name="Khashkhilar Lodge" icon="1093174707-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="22,28"/>
 </item>
-<item key="1879535712" name="Large Têtikir Lodge" icon="1093174708-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535712" name="Large Wolf-worshipper Hall" icon="1093174708-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="22,28"/>
 </item>
@@ -939002,7 +939007,7 @@
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
-<item key="1879535726" name="Assorted Têtikir Crates" icon="1093174722-1091424047-1091947416" level="1" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<item key="1879535726" name="Assorted Têtikir Vessels" icon="1093174722-1091424047-1091947416" level="1" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,8,10,23"/>
 </item>
@@ -940244,7 +940249,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="CRITICAL_RATING" scaling="1879211601"/>
-<stat name="OUTGOING_HEALING" scaling="1879357900"/>
+<stat name="OUTGOING_HEALING" scaling="1879357899"/>
 <stat name="ARMOUR" scaling="1879052067"/>
 </stats>
 </item>
@@ -940276,7 +940281,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
-<stat name="PHYSICAL_MITIGATION" scaling="1879215061"/>
+<stat name="PHYSICAL_MITIGATION" scaling="1879215069"/>
 <stat name="ARMOUR" scaling="1879052067"/>
 </stats>
 </item>
@@ -940284,7 +940289,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879211544"/>
 <stat name="CRITICAL_RATING" scaling="1879211601"/>
-<stat name="FINESSE" scaling="1879211720"/>
+<stat name="FINESSE" scaling="1879211717"/>
 <stat name="ARMOUR" scaling="1879052067"/>
 </stats>
 </item>
@@ -941350,15 +941355,15 @@
 <stats/>
 <cooldown duration="1.0" channelID="114"/>
 </item>
-<item key="1879537532" name="Brazier of Ash's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" quality="RARE">
+<item key="1879537532" name="Brazier of Ash's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" quality="RARE">
 <stats/>
 <effect type="ON_USE" id="1879536793" name=".."/>
 </item>
-<item key="1879537533" name="Brazier of Stone's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" quality="RARE">
+<item key="1879537533" name="Brazier of Stone's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" quality="RARE">
 <stats/>
 <effect type="ON_USE" id="1879536798" name=".."/>
 </item>
-<item key="1879537534" name="Brazier of Leaf's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" quality="RARE">
+<item key="1879537534" name="Brazier of Leaf's Blessing" icon="1092494577-1090519043-1091947416" level="1" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" quality="RARE">
 <stats/>
 <effect type="ON_USE" id="1879536800" name=".."/>
 </item>
@@ -941366,19 +941371,19 @@
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
-<item key="1879537655" name="Legendary Coffer" pluralName="key:621132718:98907573" icon="1091587191-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132718:54354734" valueTableId="1879049581">
+<item key="1879537655" name="Legendary Coffer of the Marsh Crocodile" pluralName="key:621132718:98907573" icon="1091587191-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132718:54354734" valueTableId="1879049581">
 <stats/>
 <cooldown duration="1.0" channelID="114"/>
 </item>
-<item key="1879537656" name="Legendary Coffer" pluralName="key:621132719:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132719:54354734" valueTableId="1879049581">
+<item key="1879537656" name="Legendary Coffer of the Chestnut Brockhound" pluralName="key:621132719:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132719:54354734" valueTableId="1879049581">
 <stats/>
 <cooldown duration="1.0" channelID="114"/>
 </item>
-<item key="1879537659" name="Legendary Coffer" pluralName="key:621132716:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132716:54354734" valueTableId="1879049581">
+<item key="1879537659" name="Legendary Coffer of the Wolf-worshipper’s Housing Collection" pluralName="key:621132716:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" minLevel="45" description="key:621132716:54354734" valueTableId="1879049581">
 <stats/>
 <cooldown duration="1.0" channelID="114"/>
 </item>
-<item key="1879537663" name="Incomparable Coffer" pluralName="key:621132717:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="INCOMPARABLE" minLevel="45" description="key:621132717:54354734" valueTableId="1879049581">
+<item key="1879537663" name="Incomparable Coffer of the Khemozêl Clan Housing Collection" pluralName="key:621132717:98907573" icon="1091437758-1091591349-1091947416" level="50" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="INCOMPARABLE" minLevel="45" description="key:621132717:54354734" valueTableId="1879049581">
 <stats/>
 <cooldown duration="1.0" channelID="114"/>
 </item>
@@ -941410,6 +941415,11 @@
 <item key="1879537905" name="Tome of the Morning Glory Writheresk" icon="1090531744-1090519041-1090531745" level="5" category="ITEM" class="186" quality="COMMON" description="key:621132972:54354734" valueTableId="1879101648">
 <stats/>
 <grants type="SKILL" id="1879537832"/>
+<effect type="ON_USE" id="1879090911" name="GrantSkillEffect"/>
+</item>
+<item key="1879537908" name="Tome of the Chestnut Brockhound" icon="1090531744-1090519041-1090531745" level="5" category="ITEM" class="186" quality="COMMON" description="key:621132961:54354734" valueTableId="1879101648">
+<stats/>
+<grants type="SKILL" id="1879537802"/>
 <effect type="ON_USE" id="1879090911" name="GrantSkillEffect"/>
 </item>
 <item key="1879537909" name="Tome of the Primeval Slough-ganger" icon="1090531744-1090519041-1090531745" level="5" category="ITEM" class="186" quality="COMMON" description="key:621132979:54354734" valueTableId="1879101648">
@@ -942723,6 +942733,10 @@
 <stats/>
 <cooldown duration="5.0"/>
 </item>
+<item key="1879538386" name="Concussive Power" icon="1090519728-1090519721" level="1" category="ITEM" class="27" quality="COMMON" description="key:621133389:54354734" valueTableId="1879049280">
+<stats/>
+<effect type="ON_USE" id="1879537979" name="Concussion Powder" spellcraft="160.0"/>
+</item>
 <item key="1879538631" name="Picturesque Staff" icon="1093185293-1091424691-1091947416" level="1" slot="MAIN_HAND" category="WEAPON" class="34" equipmentCategory="22" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="INCOMPARABLE" valueTableId="1879049280" dps="2.0995202" dpsTableId="1879049803" minDamage="2" maxDamage="2" damageType="COMMON" weaponType="STAFF">
 <stats/>
 </item>
@@ -942753,5 +942767,54 @@
 <item key="1879538698" name="Large Scorched Collection of Bones" icon="1093185350-1091424047-1091947416" level="2" category="ITEM" class="85" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
 <stats/>
 <housingHooks categories="5,10,23"/>
+</item>
+<item key="1879538727" name="Small Happy Khemozêl Statue" icon="1093174649-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,10,23"/>
+</item>
+<item key="1879538728" name="Small Wolf-worshipper's Shrine" icon="1093174717-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,8,10,23"/>
+</item>
+<item key="1879538729" name="Small Wolf-worshipper's Post" icon="1093174718-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,8,10,23"/>
+</item>
+<item key="1879538730" name="Small Guardian Khemozêl Statue" icon="1093174648-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,10,23"/>
+</item>
+<item key="1879538731" name="Small Crying Khemozêl Statue" icon="1093174647-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,10,23"/>
+</item>
+<item key="1879538732" name="Small Sad Khemozêl Statue" icon="1093174646-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" valueTableId="1879101674">
+<stats/>
+<housingHooks categories="5,10,23"/>
+</item>
+<item key="1879538735" name="Way of the Wolf-worshipper Housing Collection" pluralName="key:621133732:98907573" icon="1092536825-1091591349-1091947416" level="1" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" description="key:621133732:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="1.0" channelID="114"/>
+</item>
+<item key="1879538736" name="Frog-ridden Swamp Hut" icon="1093174752-1091424047-1091947416" level="1" category="ITEM" class="87" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="COMMON" description="key:621133730:54354734" valueTableId="1879101673">
+<stats/>
+<cooldown duration="300.0"/>
+<housingHooks categories="5,8,10,23"/>
+<effect type="ON_USE" id="1879538873" name="DNT"/>
+<effect type="ON_USE" id="1879538876" name="DNT"/>
+<effect type="ON_USE" id="1879538878" name="DNT"/>
+<effect type="ON_USE" id="1879538880" name="DNT"/>
+<effect type="ON_USE" id="1879538881" name="DNT"/>
+</item>
+<item key="1879538737" name="Khemozêl Clan Housing Collection" pluralName="key:621133731:98907573" icon="1092536825-1091591349-1091947416" level="1" category="ITEM" class="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="LEGENDARY" description="key:621133731:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="1.0" channelID="114"/>
+</item>
+<item key="1879538792" name="Vibrant Khemozêl Banquet" icon="1092170109-1090519044" level="570" category="ITEM" class="173" quality="INCOMPARABLE" minLevel="151">
+<stats/>
+<effect type="ON_USE" id="1879479350" name="Fortifying Feast" spellcraft="570.0"/>
+<effect type="ON_USE" id="1879480666" name="Fortifying Feast" spellcraft="570.0"/>
+<effect type="ON_USE" id="1879461221" name="Fortifying Food"/>
+<effect type="ON_USE" id="1879426330" name="DNT"/>
 </item>
 </items>
