@@ -915811,7 +915811,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879514356" name="Guardsman's Reinforced Torc of the Moors" icon="1093049759-1090519043-1091947416-1093049764" level="560" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879514356" name="Guardsman's Reinforced Torc of the Moors" icon="1093049759-1090519043-1091947416-1093049764" level="560" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211533"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215057"/>
@@ -916105,7 +916105,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879514390" name="Guardsman's Spirited Torc of the Moors" icon="1093049751-1090519043-1091947416-1093049764" level="560" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879514390" name="Guardsman's Spirited Torc of the Moors" icon="1093049751-1090519043-1091947416-1093049764" level="560" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211533"/>
 <stat name="OUTGOING_HEALING" scaling="1879357906"/>
@@ -916140,7 +916140,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879514394" name="Guardsman's Strong Torc of the Moors" icon="1093049750-1090519043-1091947416-1093049764" level="560" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879514394" name="Guardsman's Strong Torc of the Moors" icon="1093049750-1090519043-1091947416-1093049764" level="560" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211533"/>
 <stat name="PHYSICAL_MASTERY" scaling="1879223971"/>
@@ -916207,7 +916207,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879514402" name="Guardsman's Lustrous Torc of the Moors" icon="1093049740-1090519043-1091947416-1093049764" level="560" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879514402" name="Guardsman's Lustrous Torc of the Moors" icon="1093049740-1090519043-1091947416-1093049764" level="560" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211533"/>
 <stat name="FINESSE" scaling="1879211719"/>
@@ -916516,7 +916516,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879514437" name="Guardsman's Fierce Torc of the Moors" icon="1093049748-1090519043-1091947416-1093049764" level="560" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879514437" name="Guardsman's Fierce Torc of the Moors" icon="1093049748-1090519043-1091947416-1093049764" level="560" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="160" requiredGloryRank="1" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211533"/>
 <stat name="TACTICAL_MASTERY" scaling="1879223968"/>
@@ -934318,7 +934318,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879529601" name="DNT"/>
 </item>
-<item key="1879529913" name="Necklace of the Frozen Peak" icon="1093153538-1090519045-1091947416-1093049764" level="580" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-:1879514712">
+<item key="1879529913" name="Necklace of the Frozen Peak" icon="1093153538-1090519045-1091947416-1093049764" level="580" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" slots="n" scaling="Advancement_Level#160-:1879514712">
 <stats>
 <stat name="VITALITY" scaling="1879212152"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215075"/>
@@ -934341,7 +934341,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879529916" name="Pendant of the Unbound Flame" icon="1093153478-1090519045-1091947416-1093049764" level="580" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-:1879514712">
+<item key="1879529916" name="Pendant of the Unbound Flame" icon="1093153478-1090519045-1091947416-1093049764" level="580" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" slots="n" scaling="Advancement_Level#160-:1879514712">
 <stats>
 <stat name="VITALITY" scaling="1879212152"/>
 <stat name="CRITICAL_RATING" scaling="1879464706"/>
@@ -934394,7 +934394,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879529922" name="Necklace of the Verdant Glade" icon="1093153540-1090519045-1091947416-1093049764" level="580" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-:1879514712">
+<item key="1879529922" name="Necklace of the Verdant Glade" icon="1093153540-1090519045-1091947416-1093049764" level="580" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="LEGENDARY" minLevel="160" maxLevel="161" requiredGloryRank="5" requiredEffect="1879144855" valueTableId="1879050115" slots="n" scaling="Advancement_Level#160-:1879514712">
 <stats>
 <stat name="VITALITY" scaling="1879212152"/>
 <stat name="CRITICAL_RATING" scaling="1879212151"/>
@@ -934420,7 +934420,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879529925" name="Luminous Reinforced Torc of the Moors" icon="1093049759-1090519044-1091947416-1093049764" level="570" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879529925" name="Luminous Reinforced Torc of the Moors" icon="1093049759-1090519044-1091947416-1093049764" level="570" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211562"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
@@ -934436,7 +934436,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879231349" name="DNT - Audacity - 1"/>
 </item>
-<item key="1879529927" name="Luminous Strong Torc of the Moors" icon="1093049750-1090519044-1091947416-1093049764" level="570" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879529927" name="Luminous Strong Torc of the Moors" icon="1093049750-1090519044-1091947416-1093049764" level="570" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211562"/>
 <stat name="PHYSICAL_MASTERY" scaling="1879223956"/>
@@ -934466,7 +934466,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879529603" name="DNT"/>
 </item>
-<item key="1879529931" name="Luminous Fierce Torc of the Moors" icon="1093049748-1090519044-1091947416-1093049764" level="570" slot="NECK" category="LEGENDARY_ITEM2" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" scaling="Advancement_Level#160-">
+<item key="1879529931" name="Luminous Fierce Torc of the Moors" icon="1093049748-1090519044-1091947416-1093049764" level="570" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="160" requiredGloryRank="3" requiredEffect="1879144855" valueTableId="1879050115" slots="nW" scaling="Advancement_Level#160-">
 <stats>
 <stat name="VITALITY" scaling="1879211562"/>
 <stat name="TACTICAL_MASTERY" scaling="1879223953"/>
